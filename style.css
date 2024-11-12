@@ -1,0 +1,36 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.container{
+    width: 700px;
+    /* height: 900px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr 1fr  ;
+    
+}
+
+
+.white{
+    height:100px;
+    width: 100px;
+    background-color: whitesmoke;
+}
+.black{
+    height:100px;
+    width: 100px;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
